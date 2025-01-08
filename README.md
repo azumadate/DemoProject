@@ -20,5 +20,3 @@ The project can be loaded into Unreal Engine 5.5 and be played that way.
 
 Unfortunately I cannot push the recent updated one because of this error:
 'batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.'
-
-I have provided the full project file inside my google drive.
